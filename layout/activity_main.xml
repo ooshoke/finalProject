@@ -179,20 +179,20 @@
                 app:layout_constraintStart_toStartOf="parent">
 
                 <Button
-                    android:id="@+id/button"
+                    android:id="@+id/meat"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginRight="2dp"
                     android:layout_weight="1"
-                    android:text="Preset 3" />
+                    android:text="MEAT" />
 
                 <Button
-                    android:id="@+id/button2"
+                    android:id="@+id/fish"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginLeft="2dp"
                     android:layout_weight="1"
-                    android:text="Preset 4" />
+                    android:text="FISH" />
             </LinearLayout>
 
             <LinearLayout
@@ -207,20 +207,20 @@
                 app:layout_constraintStart_toStartOf="parent">
 
                 <Button
-                    android:id="@+id/button3"
+                    android:id="@+id/fruits"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginRight="2dp"
                     android:layout_weight="1"
-                    android:text="preset 1" />
+                    android:text="FRUITS" />
 
                 <Button
-                    android:id="@+id/button4"
+                    android:id="@+id/veg"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginLeft="2dp"
                     android:layout_weight="1"
-                    android:text="preset 2" />
+                    android:text="VEGETABLES" />
             </LinearLayout>
 
             <LinearLayout
